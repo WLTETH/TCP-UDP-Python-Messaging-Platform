@@ -22,7 +22,11 @@ pip install -r requirements.txt
 python server.py
 ```
 
-## Step 3: Run a client
+## Step 3: Run two clients
+
+```bash
+python client.py
+```
 
 ```bash
 python client.py
